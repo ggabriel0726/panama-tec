@@ -4,6 +4,6 @@ runtime: php55
 api_version: 1
 
 handlers:
-- url: /.*
+- url: www.panama-tec.com
   script: helloworld.php
 
